@@ -1,0 +1,16 @@
+The aim of the project is to write a python code that will keep track of items in a store,how many items have been sold,when the store needs to be restocked (which item(s) needs to be restocked) and make a prediction on future demand of the products in the store.
+
+The system will have two interfaces 1).for the admin 2).for the customer.
+
+On the admin interface,on will have the athentication to:
+       a).View user information(which item(s) he/she bought,when he bought and how much money spent).
+       b).view which items are in the store's dataset.
+       c).Add new item(s) in the store's dataset
+       d).Remove item(s) in the store dataset.
+       e).view which item(s) needs to be restocked
+       f).See which items will be in demand
+
+On customer interface,one will have the authentication to:
+       a).See available products in the store,their price and quantity
+       b).Purchase through the interface
+       
